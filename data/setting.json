@@ -1,9 +1,0 @@
-{
-  "mqtt": { "server": "azew30usnxde0-ats.iot.eu-central-1.amazonaws.com", "port": 8883},
-  "wifi": [
-{"SSID":"HomeNET-mobile", "password": "qitzwasp"},
-{"SSID":"HomeNET", "password": "qitzwasp"},
-{"SSID":"CarNET", "password": "qitzwasp"},
-{"SSID":"TP-Link_C8CA", "password": "93385084"}
-  ]
-}
